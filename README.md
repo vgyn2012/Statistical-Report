@@ -1,6 +1,6 @@
 # Statistical Report
 
-A statistical report by Vihaan Narayan, completed in May 2025.
+A statistical report by Vihaan Narayan, completed in May 2025 for an American statistical Association (ASA) competition. This research also formed the foundation of my UX research project.
 
 ## Read the report
 
